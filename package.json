@@ -26,7 +26,7 @@
     "https": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.32",
+    "moment-timezone": "^0.5.33",
     "mongoose": "^5.10.15",
     "morgan": "^1.10.0",
     "nodemailer": "^6.4.16",
